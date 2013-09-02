@@ -1,0 +1,7 @@
+CATKIN_PACKAGE_PREFIX=""
+PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/work/ws/src/ros_comm/tools/rosbag/include"
+PROJECT_CATKIN_DEPENDS="rosconsole;roscpp;topic_tools;xmlrpcpp"
+PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lrosbag"
+PROJECT_NAME="rosbag"
+PROJECT_SPACE_DIR="C:/work/ws/devel"
+PROJECT_VERSION="1.9.42"

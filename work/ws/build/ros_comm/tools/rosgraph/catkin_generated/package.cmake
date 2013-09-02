@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rosgraph")
+set(rosgraph_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(rosgraph_DEPRECATED "")
+set(rosgraph_VERSION "1.9.42")
+set(rosgraph_BUILD_DEPENDS )
+set(rosgraph_RUN_DEPENDS "python-netifaces" "python-rospkg")
+set(rosgraph_BUILDTOOL_DEPENDS "catkin")

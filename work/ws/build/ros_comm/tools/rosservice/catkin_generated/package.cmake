@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rosservice")
+set(rosservice_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(rosservice_DEPRECATED "")
+set(rosservice_VERSION "1.9.42")
+set(rosservice_BUILD_DEPENDS )
+set(rosservice_RUN_DEPENDS "genpy" "rosgraph" "roslib" "rospy" "rosmsg")
+set(rosservice_BUILDTOOL_DEPENDS "catkin")

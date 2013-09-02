@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "C:/work/ws/src/rospack/include;C:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include")

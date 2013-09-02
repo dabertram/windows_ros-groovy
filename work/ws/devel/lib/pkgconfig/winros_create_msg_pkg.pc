@@ -1,0 +1,6 @@
+Name: winros_create_msg_pkg
+Description: Description of winros_create_msg_pkg
+Version: 0.1.0
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: 

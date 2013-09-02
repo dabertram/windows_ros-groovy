@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "trajectory_msgs")
+set(trajectory_msgs_MAINTAINER "Tully Foote <tfoote@osrfoundation.org>")
+set(trajectory_msgs_DEPRECATED "")
+set(trajectory_msgs_VERSION "1.9.16")
+set(trajectory_msgs_BUILD_DEPENDS "message_generation" "std_msgs")
+set(trajectory_msgs_RUN_DEPENDS "message_runtime" "std_msgs")
+set(trajectory_msgs_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,6 @@
+Name: rosboost_cfg
+Description: Description of rosboost_cfg
+Version: 1.9.51
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+CATKIN_PACKAGE_PREFIX=""
+PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/work/ws/src/roscpp_core/rostime/include;C:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include"
+PROJECT_CATKIN_DEPENDS="cpp_common"
+PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lrostime;C:/opt/rosdeps/groovy/x86/lib/boost_date_time-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_thread-vc-mt-1_47.lib"
+PROJECT_NAME="rostime"
+PROJECT_SPACE_DIR="C:/work/ws/devel"
+PROJECT_VERSION="0.3.16"

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "win_roscpp_tutorials")
+set(win_roscpp_tutorials_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(win_roscpp_tutorials_DEPRECATED "")
+set(win_roscpp_tutorials_VERSION "0.2.0")
+set(win_roscpp_tutorials_BUILD_DEPENDS "message_generation" "roscpp" "std_srvs" "std_msgs")
+set(win_roscpp_tutorials_RUN_DEPENDS "message_runtime" "roscpp" "std_srvs" "std_msgs")
+set(win_roscpp_tutorials_BUILDTOOL_DEPENDS "catkin")

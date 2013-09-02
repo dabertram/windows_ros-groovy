@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "roscpp")
+set(roscpp_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(roscpp_DEPRECATED "")
+set(roscpp_VERSION "1.9.42")
+set(roscpp_BUILD_DEPENDS "cpp_common" "message_generation" "pkg-config" "rosconsole" "roscpp_serialization" "roscpp_traits" "rosgraph_msgs" "roslang" "rostime" "std_msgs" "xmlrpcpp")
+set(roscpp_RUN_DEPENDS "cpp_common" "message_runtime" "rosconsole" "roscpp_serialization" "roscpp_traits" "rosgraph_msgs" "rostime" "std_msgs" "xmlrpcpp")
+set(roscpp_BUILDTOOL_DEPENDS "catkin")

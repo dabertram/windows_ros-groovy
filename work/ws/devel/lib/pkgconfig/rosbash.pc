@@ -1,0 +1,6 @@
+Name: rosbash
+Description: Description of rosbash
+Version: 1.9.51
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: 

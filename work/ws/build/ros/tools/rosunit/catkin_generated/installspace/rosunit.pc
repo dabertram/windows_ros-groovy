@@ -1,0 +1,6 @@
+Name: rosunit
+Description: Description of rosunit
+Version: 1.9.51
+Cflags: -I
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: 

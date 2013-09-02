@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cpp_common")
+set(cpp_common_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(cpp_common_DEPRECATED "")
+set(cpp_common_VERSION "0.3.16")
+set(cpp_common_BUILD_DEPENDS )
+set(cpp_common_RUN_DEPENDS )
+set(cpp_common_BUILDTOOL_DEPENDS "catkin")

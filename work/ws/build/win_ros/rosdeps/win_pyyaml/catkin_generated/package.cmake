@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "win_pyyaml")
+set(win_pyyaml_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(win_pyyaml_DEPRECATED "")
+set(win_pyyaml_VERSION "0.2.0")
+set(win_pyyaml_BUILD_DEPENDS )
+set(win_pyyaml_RUN_DEPENDS )
+set(win_pyyaml_BUILDTOOL_DEPENDS "catkin")

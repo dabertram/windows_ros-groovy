@@ -1,0 +1,6 @@
+Name: catkin
+Description: Description of catkin
+Version: 0.5.64
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: 

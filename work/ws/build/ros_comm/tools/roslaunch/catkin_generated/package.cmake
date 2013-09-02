@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "roslaunch")
+set(roslaunch_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(roslaunch_DEPRECATED "")
+set(roslaunch_VERSION "1.9.42")
+set(roslaunch_BUILD_DEPENDS )
+set(roslaunch_RUN_DEPENDS "python-paramiko" "python-yaml" "rosclean" "rosgraph_msgs" "roslib" "rosmaster" "rosout" "rosparam")
+set(roslaunch_BUILDTOOL_DEPENDS "catkin")

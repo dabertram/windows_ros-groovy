@@ -1,0 +1,1 @@
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/work/ws/devel/lib/win_roscpp_tutorials/win_node_handle_namespaces.exe.embed.manifest"

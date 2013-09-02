@@ -1,0 +1,13 @@
+<package>
+  <name>win_tinyxml</name>
+  <version>0.2.0</version>
+  <description>
+    Build script for tinyxml.
+  </description>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/win_tinyxml</url>
+  <maintainer email="d.stonier@gmail.com">Daniel Stonier</maintainer>
+  <author>Daniel Stonier</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

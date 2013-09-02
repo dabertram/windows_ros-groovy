@@ -1,0 +1,13 @@
+<package>
+  <name>win_boost</name>
+  <version>0.2.0</version>
+  <description>
+  Scripts to help download, patch and compile cmake boost.
+  </description>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/win_boost</url>
+  <maintainer email="d.stonier@gmail.com">Daniel Stonier</maintainer>
+  <author>Daniel Stonier</author>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
+

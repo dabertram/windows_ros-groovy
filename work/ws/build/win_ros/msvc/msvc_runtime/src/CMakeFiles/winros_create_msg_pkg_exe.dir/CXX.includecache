@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/work/ws/src/win_ros/msvc/msvc_runtime/src/ros_bin.cpp
+iostream
+-
+cstdlib
+-
+sstream
+-
+algorithm
+-
+windows.h
+-
+

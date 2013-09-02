@@ -1,0 +1,6 @@
+Name: rosconsole
+Description: Description of rosconsole
+Version: 1.9.42
+Cflags: -IC:/work/ws/src/ros_comm/tools/rosconsole/include -IC:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include -IC:/opt/rosdeps/groovy/x86/share/cmake/log4cxx/../../../include
+Libs: -LC:/work/ws/devel/lib -lrosconsole C:/opt/rosdeps/groovy/x86/lib/boost_regex-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_thread-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/share/cmake/log4cxx/../../../lib/log4cxx.lib
+Requires: cpp_common rostime

@@ -1,0 +1,6 @@
+Name: test_rosbag
+Description: Description of test_rosbag
+Version: 1.9.42
+Cflags: -I
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: 

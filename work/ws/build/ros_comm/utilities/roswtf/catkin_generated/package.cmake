@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "roswtf")
+set(roswtf_MAINTAINER "Mirza A. Shah <mshah@willowgarage.com>")
+set(roswtf_DEPRECATED "")
+set(roswtf_VERSION "1.9.42")
+set(roswtf_BUILD_DEPENDS "rostest")
+set(roswtf_RUN_DEPENDS "python-paramiko" "python-rospkg" "rosgraph" "roslaunch" "roslib" "rosnode" "rosservice")
+set(roswtf_BUILDTOOL_DEPENDS "catkin")

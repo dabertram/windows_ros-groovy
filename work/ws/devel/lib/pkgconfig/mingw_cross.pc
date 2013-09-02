@@ -1,0 +1,6 @@
+Name: mingw_cross
+Description: Description of mingw_cross
+Version: 0.2.0
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: 

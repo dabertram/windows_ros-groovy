@@ -1,0 +1,6 @@
+Name: rosapi
+Description: Description of rosapi
+Version: 0.4.4
+Cflags: -IC:/opt/ros/groovy/x86/include
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: message_runtime

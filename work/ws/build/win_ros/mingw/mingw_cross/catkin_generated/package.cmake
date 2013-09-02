@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "mingw_cross")
+set(mingw_cross_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(mingw_cross_DEPRECATED "")
+set(mingw_cross_VERSION "0.2.0")
+set(mingw_cross_BUILD_DEPENDS "mercurial" "xz-utils" "flex" "bison" "yasm" "autoconf" "libtool" "intltool" "scons")
+set(mingw_cross_RUN_DEPENDS )
+set(mingw_cross_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,6 @@
+Name: rosapi
+Description: Description of rosapi
+Version: 0.4.4
+Cflags: -IC:/work/ws/devel/include
+Libs: -LC:/work/ws/devel/lib 
+Requires: message_runtime

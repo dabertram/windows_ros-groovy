@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "win_eigen")
+set(win_eigen_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(win_eigen_DEPRECATED "")
+set(win_eigen_VERSION "0.2.0")
+set(win_eigen_BUILD_DEPENDS )
+set(win_eigen_RUN_DEPENDS )
+set(win_eigen_BUILDTOOL_DEPENDS "catkin")

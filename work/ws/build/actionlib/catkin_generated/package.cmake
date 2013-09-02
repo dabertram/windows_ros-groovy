@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "actionlib")
+set(actionlib_MAINTAINER "Eitan Marder-Eppstein <eitan@willowgarage.com>")
+set(actionlib_DEPRECATED "")
+set(actionlib_VERSION "1.9.11")
+set(actionlib_BUILD_DEPENDS "actionlib_msgs" "boost" "message_generation" "roscpp" "rospy" "rostest" "std_msgs")
+set(actionlib_RUN_DEPENDS "actionlib_msgs" "boost" "message_runtime" "roscpp" "rospy" "rostest" "std_msgs")
+set(actionlib_BUILDTOOL_DEPENDS "catkin")

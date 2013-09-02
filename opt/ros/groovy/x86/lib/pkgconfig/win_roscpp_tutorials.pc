@@ -1,0 +1,6 @@
+Name: win_roscpp_tutorials
+Description: Description of win_roscpp_tutorials
+Version: 0.2.0
+Cflags: -IC:/opt/ros/groovy/x86/include
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: message_runtime std_msgs

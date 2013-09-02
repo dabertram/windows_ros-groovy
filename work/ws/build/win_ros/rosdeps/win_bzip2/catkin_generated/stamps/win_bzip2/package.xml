@@ -1,0 +1,15 @@
+<package>
+  <name>win_bzip2</name>
+  <version>0.2.0</version>
+  <description>
+  Scripts to help download, patch and compile bzip2.
+  </description>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/win_bzip2</url>
+  <maintainer email="d.stonier@gmail.com">Daniel Stonier</maintainer>
+  <author>Daniel Stonier</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
+
+

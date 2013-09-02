@@ -1,0 +1,6 @@
+Name: xmlrpcpp
+Description: Description of xmlrpcpp
+Version: 1.9.42
+Cflags: -IC:/opt/ros/groovy/x86/include
+Libs: -LC:/opt/ros/groovy/x86/lib -lxmlrpcpp
+Requires: cpp_common

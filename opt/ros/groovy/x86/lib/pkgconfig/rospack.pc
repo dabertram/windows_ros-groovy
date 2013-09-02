@@ -1,0 +1,6 @@
+Name: rospack
+Description: Description of rospack
+Version: 2.1.21
+Cflags: -IC:/opt/ros/groovy/x86/include -IC:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include
+Libs: -LC:/opt/ros/groovy/x86/lib -lrospack -ltinyxml C:/Python27/libs/python27.lib C:/opt/rosdeps/groovy/x86/lib/boost_filesystem-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_program_options-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib
+Requires: 

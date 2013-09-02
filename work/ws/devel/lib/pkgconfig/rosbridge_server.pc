@@ -1,0 +1,6 @@
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.4.4
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: 

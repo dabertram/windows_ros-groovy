@@ -1,0 +1,138 @@
+Determining if files pthread.h exist failed with the following output:
+Change Dir: C:/work/ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command:nmake /NOLOGO  "cmTryCompileExec3719465287\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe" -f CMakeFiles\cmTryCompileExec3719465287.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec3719465287.dir\build
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\work\ws\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3719465287.dir/CheckIncludeFiles.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  @C:\Users\David\AppData\Local\Temp\nmCB0E.tmp
+CheckIncludeFiles.c
+C:\work\ws\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2) : fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe"' : return code '0x2'
+Stop.
+
+Source:
+/* */
+#include <pthread.h>
+
+
+int main(){return 0;}
+
+Determining if the include file execinfo.h exists failed with the following output:
+Change Dir: C:/work/ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command:nmake /NOLOGO  "cmTryCompileExec3779232612\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe" -f CMakeFiles\cmTryCompileExec3779232612.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec3779232612.dir\build
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\work\ws\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3779232612.dir/CheckIncludeFile.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  @C:\Users\David\AppData\Local\Temp\nmEDE9.tmp
+CheckIncludeFile.c
+C:\work\ws\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1) : fatal error C1083: Cannot open include file: 'execinfo.h': No such file or directory
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Performing C++ SOURCE FILE Test HAVE_CXXABI_H failed with the following output:
+Change Dir: C:/work/ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command:nmake /NOLOGO  "cmTryCompileExec1160269810\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe" -f CMakeFiles\cmTryCompileExec1160269810.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec1160269810.dir\build
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\work\ws\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1160269810.dir/src.cxx.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  @C:\Users\David\AppData\Local\Temp\nmEF31.tmp
+src.cxx
+C:\work\ws\build\CMakeFiles\CMakeTmp\src.cxx(1) : fatal error C1083: Cannot open include file: 'cxxabi.h': No such file or directory
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe"' : return code '0x2'
+Stop.
+
+Source file was:
+#include<cxxabi.h>
+intmain(intargc,char**argv){}
+Determining if the function backtrace exists failed with the following output:
+Change Dir: C:/work/ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command:nmake /NOLOGO  "cmTryCompileExec4029846656\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe" -f CMakeFiles\cmTryCompileExec4029846656.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec4029846656.dir\build
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\work\ws\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4029846656.dir/CheckFunctionExists.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  @C:\Users\David\AppData\Local\Temp\nmF088.tmp
+CheckFunctionExists.c
+Linking C executable cmTryCompileExec4029846656.exe
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E vs_link_exe C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  /nologo @C:\Users\David\AppData\Local\Temp\nmF106.tmp
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _backtrace referenced in function _main
+cmTryCompileExec4029846656.exe : fatal error LNK1120: 1 unresolved externals
+LINK Pass 1 failed. with 2
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Determining if files ifaddrs.h exist failed with the following output:
+Change Dir: C:/work/ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command:nmake /NOLOGO  "cmTryCompileExec698996117\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe" -f CMakeFiles\cmTryCompileExec698996117.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec698996117.dir\build
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\work\ws\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec698996117.dir/CheckIncludeFiles.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  @C:\Users\David\AppData\Local\Temp\nmD5A9.tmp
+CheckIncludeFiles.c
+C:\work\ws\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2) : fatal error C1083: Cannot open include file: 'ifaddrs.h': No such file or directory
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe"' : return code '0x2'
+Stop.
+
+Source:
+/* */
+#include <ifaddrs.h>
+
+
+int main(){return 0;}
+
+Determining if the function trunc exists failed with the following output:
+Change Dir: C:/work/ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command:nmake /NOLOGO  "cmTryCompileExec938762188\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe" -f CMakeFiles\cmTryCompileExec938762188.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec938762188.dir\build
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\work\ws\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec938762188.dir/CheckFunctionExists.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  @C:\Users\David\AppData\Local\Temp\nmD6F0.tmp
+CheckFunctionExists.c
+Linking C executable cmTryCompileExec938762188.exe
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E vs_link_exe C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  /nologo @C:\Users\David\AppData\Local\Temp\nmD75E.tmp
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _trunc referenced in function _main
+cmTryCompileExec938762188.exe : fatal error LNK1120: 1 unresolved externals
+LINK Pass 1 failed. with 2
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Determining if the function BZ2_bzCompressInit exists in the C:/opt/rosdeps/groovy/x86/lib/bzip2.lib failed with the following output:
+Change Dir: C:/work/ws/build/CMakeFiles/CMakeTmp
+
+Run Build Command:nmake /NOLOGO  "cmTryCompileExec1669938412\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe" -f CMakeFiles\cmTryCompileExec1669938412.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec1669938412.dir\build
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\work\ws\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1669938412.dir/CheckFunctionExists.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  @C:\Users\David\AppData\Local\Temp\nm30C3.tmp
+CheckFunctionExists.c
+Linking C executable cmTryCompileExec1669938412.exe
+	"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E vs_link_exe C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe  /nologo @C:\Users\David\AppData\Local\Temp\nm3131.tmp
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _BZ2_bzCompressInit referenced in function _main
+cmTryCompileExec1669938412.exe : fatal error LNK1120: 1 unresolved externals
+LINK Pass 1 failed. with 2
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Bin\nmake.exe"' : return code '0x2'
+Stop.
+
+

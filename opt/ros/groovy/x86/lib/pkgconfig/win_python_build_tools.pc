@@ -1,0 +1,6 @@
+Name: win_python_build_tools
+Description: Description of win_python_build_tools
+Version: 0.2.3
+Cflags: -I
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: 

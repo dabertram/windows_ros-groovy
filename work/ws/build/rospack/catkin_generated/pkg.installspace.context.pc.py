@@ -1,0 +1,7 @@
+CATKIN_PACKAGE_PREFIX=""
+PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/opt/ros/groovy/x86/include;C:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include"
+PROJECT_CATKIN_DEPENDS=""
+PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lrospack;-ltinyxml;C:/Python27/libs/python27.lib;C:/opt/rosdeps/groovy/x86/lib/boost_filesystem-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_program_options-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib"
+PROJECT_NAME="rospack"
+PROJECT_SPACE_DIR="C:/opt/ros/groovy/x86"
+PROJECT_VERSION="2.1.21"

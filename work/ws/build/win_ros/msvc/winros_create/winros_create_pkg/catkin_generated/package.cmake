@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "winros_create_pkg")
+set(winros_create_pkg_MAINTAINER "Yeong-il Choe <yichhoe@yujinrobot.com>")
+set(winros_create_pkg_DEPRECATED "")
+set(winros_create_pkg_VERSION "0.1.0")
+set(winros_create_pkg_BUILD_DEPENDS )
+set(winros_create_pkg_RUN_DEPENDS )
+set(winros_create_pkg_BUILDTOOL_DEPENDS "catkin")

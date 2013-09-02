@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rostopic")
+set(rostopic_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(rostopic_DEPRECATED "")
+set(rostopic_VERSION "1.9.42")
+set(rostopic_BUILD_DEPENDS "rostest")
+set(rostopic_RUN_DEPENDS "rosbag" "rospy")
+set(rostopic_BUILDTOOL_DEPENDS "catkin")

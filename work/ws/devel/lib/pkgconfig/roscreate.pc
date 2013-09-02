@@ -1,0 +1,6 @@
+Name: roscreate
+Description: Description of roscreate
+Version: 1.9.51
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rospack")
+set(rospack_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(rospack_DEPRECATED "")
+set(rospack_VERSION "2.1.21")
+set(rospack_BUILD_DEPENDS "boost" "gtest" "pkg-config" "python" "tinyxml")
+set(rospack_RUN_DEPENDS "boost" "gtest" "pkg-config" "python" "python-catkin-pkg" "python-rosdep" "tinyxml")
+set(rospack_BUILDTOOL_DEPENDS "catkin")

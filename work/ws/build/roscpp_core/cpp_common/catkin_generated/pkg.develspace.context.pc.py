@@ -1,0 +1,7 @@
+CATKIN_PACKAGE_PREFIX=""
+PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/work/ws/src/roscpp_core/cpp_common/include"
+PROJECT_CATKIN_DEPENDS=""
+PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lcpp_common"
+PROJECT_NAME="cpp_common"
+PROJECT_SPACE_DIR="C:/work/ws/devel"
+PROJECT_VERSION="0.3.16"

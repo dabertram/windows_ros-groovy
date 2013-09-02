@@ -1,0 +1,6 @@
+Name: rostime
+Description: Description of rostime
+Version: 0.3.16
+Cflags: -IC:/opt/ros/groovy/x86/include -IC:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include
+Libs: -LC:/opt/ros/groovy/x86/lib -lrostime C:/opt/rosdeps/groovy/x86/lib/boost_date_time-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_thread-vc-mt-1_47.lib
+Requires: cpp_common

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rosmsg")
+set(rosmsg_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(rosmsg_DEPRECATED "")
+set(rosmsg_VERSION "1.9.42")
+set(rosmsg_BUILD_DEPENDS )
+set(rosmsg_RUN_DEPENDS "genmsg" "python-rospkg" "rosbag" "roslib")
+set(rosmsg_BUILDTOOL_DEPENDS "catkin")

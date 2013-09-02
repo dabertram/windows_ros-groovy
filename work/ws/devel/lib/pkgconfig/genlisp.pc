@@ -1,0 +1,6 @@
+Name: genlisp
+Description: Description of genlisp
+Version: 0.4.12
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: genmsg

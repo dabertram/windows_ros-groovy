@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "gencpp")
+set(gencpp_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(gencpp_DEPRECATED "")
+set(gencpp_VERSION "0.4.14")
+set(gencpp_BUILD_DEPENDS "genmsg")
+set(gencpp_RUN_DEPENDS "genmsg")
+set(gencpp_BUILDTOOL_DEPENDS "catkin")

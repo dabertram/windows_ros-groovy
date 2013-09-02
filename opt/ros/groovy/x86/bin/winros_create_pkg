@@ -1,0 +1,6 @@
+#!C:\Python27\python.exe
+
+from winros_create_pkg import create_winros_catkin_package
+
+if __name__ == "__main__":
+    create_winros_catkin_package()

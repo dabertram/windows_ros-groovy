@@ -1,0 +1,6 @@
+Name: cpp_common
+Description: Description of cpp_common
+Version: 0.3.16
+Cflags: -IC:/opt/ros/groovy/x86/include
+Libs: -LC:/opt/ros/groovy/x86/lib -lcpp_common
+Requires: 

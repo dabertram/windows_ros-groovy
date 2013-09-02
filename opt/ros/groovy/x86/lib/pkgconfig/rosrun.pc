@@ -1,0 +1,6 @@
+Name: rosrun
+Description: Description of rosrun
+Version: 1.0.0
+Cflags: -I
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: 

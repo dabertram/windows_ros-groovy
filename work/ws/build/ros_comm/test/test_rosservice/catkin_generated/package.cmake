@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "test_rosservice")
+set(test_rosservice_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
+set(test_rosservice_DEPRECATED "")
+set(test_rosservice_VERSION "1.9.42")
+set(test_rosservice_BUILD_DEPENDS "genmsg" "rostest" "std_msgs")
+set(test_rosservice_RUN_DEPENDS )
+set(test_rosservice_BUILDTOOL_DEPENDS "catkin")

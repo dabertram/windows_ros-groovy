@@ -1,0 +1,6 @@
+Name: rosbridge_library
+Description: Description of rosbridge_library
+Version: 0.4.4
+Cflags: -IC:/opt/ros/groovy/x86/include
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: 

@@ -1,0 +1,6 @@
+Name: genpy
+Description: Description of genpy
+Version: 0.4.14
+Cflags: -I
+Libs: -LC:/work/ws/devel/lib 
+Requires: genmsg

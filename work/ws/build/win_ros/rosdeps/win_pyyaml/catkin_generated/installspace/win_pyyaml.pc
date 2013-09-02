@@ -1,0 +1,6 @@
+Name: win_pyyaml
+Description: Description of win_pyyaml
+Version: 0.2.0
+Cflags: -I
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: 

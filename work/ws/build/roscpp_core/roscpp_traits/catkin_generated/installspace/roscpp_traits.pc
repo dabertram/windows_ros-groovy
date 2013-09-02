@@ -1,0 +1,6 @@
+Name: roscpp_traits
+Description: Description of roscpp_traits
+Version: 0.3.16
+Cflags: -IC:/opt/ros/groovy/x86/include
+Libs: -LC:/opt/ros/groovy/x86/lib 
+Requires: 
