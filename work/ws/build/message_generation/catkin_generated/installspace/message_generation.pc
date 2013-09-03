@@ -1,6 +1,0 @@
-Name: message_generation
-Description: Description of message_generation
-Version: 0.2.10
-Cflags: -I
-Libs: -LC:/opt/ros/groovy/x86/lib 
-Requires: gencpp genlisp genmsg genpy

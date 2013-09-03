@@ -1,6 +1,0 @@
-Name: win_bzip2
-Description: Description of win_bzip2
-Version: 0.2.0
-Cflags: -I
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "message_filters")
-set(message_filters_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(message_filters_DEPRECATED "")
-set(message_filters_VERSION "1.9.42")
-set(message_filters_BUILD_DEPENDS "boost" "rosconsole" "roscpp" "rostest" "rosunit" "xmlrpcpp")
-set(message_filters_RUN_DEPENDS "rosconsole" "roscpp" "xmlrpcpp")
-set(message_filters_BUILDTOOL_DEPENDS "catkin")

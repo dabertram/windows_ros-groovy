@@ -1,7 +1,0 @@
-CATKIN_PACKAGE_PREFIX=""
-PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/opt/ros/groovy/x86/include;C:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include"
-PROJECT_CATKIN_DEPENDS="geometry_msgs;message_runtime;std_msgs"
-PKG_CONFIG_LIBRARIES_WITH_PREFIX="C:/opt/rosdeps/groovy/x86/lib/boost_wave-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_signals-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_program_options-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_iostreams-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_filesystem-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_unit_test_framework-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_python-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_graph-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_random-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_math_c99l-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_wserialization-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_regex-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_thread-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_date_time-vc-mt-1_47.lib"
-PROJECT_NAME="sensor_msgs"
-PROJECT_SPACE_DIR="C:/opt/ros/groovy/x86"
-PROJECT_VERSION="1.9.16"

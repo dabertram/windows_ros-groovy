@@ -1,6 +1,0 @@
-Name: rosrun
-Description: Description of rosrun
-Version: 1.0.0
-Cflags: -I
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

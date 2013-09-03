@@ -1,6 +1,0 @@
-Name: roslib
-Description: Description of roslib
-Version: 1.9.51
-Cflags: -IC:/work/ws/src/ros/core/roslib/include
-Libs: -LC:/work/ws/devel/lib -lroslib
-Requires: 

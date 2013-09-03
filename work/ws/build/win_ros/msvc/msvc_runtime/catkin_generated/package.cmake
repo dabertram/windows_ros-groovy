@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "msvc_runtime")
-set(msvc_runtime_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
-set(msvc_runtime_DEPRECATED "")
-set(msvc_runtime_VERSION "0.2.0")
-set(msvc_runtime_BUILD_DEPENDS "win_roscpp_tutorials" "rosgraph_msgs" "rosout")
-set(msvc_runtime_RUN_DEPENDS )
-set(msvc_runtime_BUILDTOOL_DEPENDS "catkin")

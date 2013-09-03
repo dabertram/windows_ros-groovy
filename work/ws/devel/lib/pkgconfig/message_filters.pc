@@ -1,6 +1,0 @@
-Name: message_filters
-Description: Description of message_filters
-Version: 1.9.42
-Cflags: -IC:/work/ws/src/ros_comm/utilities/message_filters/include
-Libs: -LC:/work/ws/devel/lib -lmessage_filters
-Requires: roscpp xmlrpcpp rosconsole

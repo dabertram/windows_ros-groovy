@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+
+<meta name="google-site-verification" content="CjkdY6BqKWAVmQ78_iSq6J7ZZ9AoL7-CjFVBYGg9FU4">
+<link rel="shortcut icon" href="http://wiki.ros.org/custom/favicon.ico" type="image/ico">
+<script src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/ga.js" async="" type="text/javascript"></script><script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/sorttable.js"></script>
+<script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/ASCIIMathML.js"></script>
+<script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/jquery.js"></script>                         
+<script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/seesaw.js"></script> 
+<script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/rosversion.js"></script> 
+<script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/RGraph.js"></script>
+<script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/RGraph_002.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17821189-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="index,nofollow">
+
+<title>win_python_build_tools/groovy - ROS Wiki</title>
+<script type="text/javascript" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/common.js"></script>
+
+<script type="text/javascript">
+<!--
+var search_hint = "Suche";
+//-->
+</script>
+
+
+<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/common.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/screen.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/print.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/projection.css">
+
+<!-- css only for MS IE6/IE7 browsers -->
+<!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/moin_static197/rostheme/css/msie.css">
+<![endif]-->
+
+
+<link rel="alternate" title="ROS Wiki: win_python_build_tools/groovy" href="http://wiki.ros.org/win_python_build_tools/groovy?diffs=1&amp;show_att=1&amp;action=rss_rc&amp;unique=0&amp;page=win_python_build_tools%2Fgroovy&amp;ddiffs=1" type="application/rss+xml">
+
+
+<link rel="Start" href="http://wiki.ros.org/Documentation">
+<link rel="Alternate" title="Wiki Quelltext" href="http://wiki.ros.org/win_python_build_tools/groovy?action=raw">
+<link rel="Alternate" media="print" title="Druckansicht" href="http://wiki.ros.org/win_python_build_tools/groovy?action=print">
+<link rel="Up" href="http://wiki.ros.org/win_python_build_tools">
+<link rel="Search" href="http://wiki.ros.org/FindPage">
+<link rel="Index" href="http://wiki.ros.org/TitleIndex">
+<link rel="Glossary" href="http://wiki.ros.org/WordIndex">
+<link rel="Help" href="http://wiki.ros.org/HelpOnFormatting">
+</head>
+
+<body dir="ltr" lang="de">
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5950817-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript">
+<!--// Initialize search form
+var f = document.getElementById('searchform');
+if(f) f.getElementsByTagName('label')[0].style.display = 'none';
+var e = document.getElementById('searchinput');
+if(e) {
+  searchChange(e);
+  searchBlur(e);
+}
+
+function handleSubmit() {
+  var f = document.getElementById('searchform');
+  var t = document.getElementById('searchinput');
+  var r = document.getElementById('real_searchinput');
+  
+  //alert("handleSubmit "+ t.value);
+  if(t.value.match(/review/)) {
+    r.value = t.value;
+  } else {
+    //r.value = t.value + " -PackageReviewCategory -StackReviewCategory -M3Review -DocReview -ApiReview -HelpOn -BadContent -LocalSpellingWords";
+    r.value = t.value + " -PackageReviewCategory -StackReviewCategory -DocReview -ApiReview";
+  }
+  //return validate(f);
+}
+//-->
+</script>
+
+<div id="dpage">
+  <div id="dpage-inner">
+    <div id="header"><div id="topnav">
+      <table id="topnav-table">
+        <tbody><tr>
+          <td valign="top" width="300"><a href="http://wiki.ros.org/"><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/ros_org.png" alt="ros.org" border="0" height="51" width="238"></a></td>
+          <td valign="middle">
+            <a href="http://wiki.ros.org/About%20ros.org">About</a>
+            |
+            <a href="http://wiki.ros.org/Support">Support</a>
+            |
+            <a href="http://answers.ros.org/">answers.ros.org</a>
+
+<!--   <a href="http://roscon.ros.org/?page_id=109"><img align="middle" style="padding-left: 15px;" src="http://ros.org/images/roscon_wiki_header.png" width="133" height="38" alt="roscon" /></a> -->
+
+          </td>
+
+          <td align="right" valign="middle">
+
+<script language="Javascript">
+
+function Searchy(theButton){
+
+theForm = theButton.form;
+newID = theForm.input.value;
+theForm.q.value = newID;
+theForm.input.value=theForm.input.value
+
+}
+</script>
+
+
+<form action="http://www.ros.org/search/index.html" id="cse">
+  <div>
+    <label>Search:</label>
+    <input name="cx" value="013029357434904786434:afn5eukzpgg" type="hidden">
+    <input name="cof" value="FORID:11;NB:1" type="hidden">
+    <input name="filter" value="0" type="hidden">
+    <input name="num" value="10" type="hidden">
+
+    <input name="ie" value="UTF-8" type="hidden">
+    <input name="input" id="input" autocomplete="on" style="width: 35%" type="text">
+    <input name="q" value="" type="hidden">
+    <input name="sa" value="Submit" onclick="Searchy(this)" type="submit">
+
+  </div>
+</form>
+
+         </td>
+      </tr>
+      <tr>
+        <td colspan="3" height="53" width="1024"><nobr><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_left.png" alt="" height="53" width="17"><a href="http://wiki.ros.org/"><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_documentation.png" alt="Documentation" border="0" height="53" width="237"></a><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_spacer.png" height="53" width="69"><a href="http://www.ros.org/browse/"><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_browse_software.png" alt="Browse Software" border="0" height="53" width="268"></a><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_spacer.png" height="53" width="69"><a href="http://www.ros.org/news"><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_news.png" alt="News" border="0" height="53" width="84"></a><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_spacer.png" height="53" width="69"><a href="http://wiki.ros.org/ROS/Installation"><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_download.png" alt="Download" border="0" height="53" width="151"></a><img src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/menu_right.png" height="53" width="60"></nobr></td>
+
+      </tr>
+    </tbody></table> <!-- topnav-table -->
+
+    </div> <!-- /#topav -->
+  </div> <!-- /#header -->
+
+
+<div id="header2">
+
+<ul id="pagelocation">
+<li><a href="http://wiki.ros.org/win_python_build_tools">win_python_build_tools</a></li><li><a class="backlink" href="http://wiki.ros.org/win_python_build_tools/groovy?action=fullsearch&amp;context=180&amp;value=linkto%3A%22win_python_build_tools%2Fgroovy%22" rel="nofollow" title="Hier klicken für eine Liste der Seiten, die auf diese verweisen">groovy</a></li>
+</ul>
+
+<div id="locationline">
+</div>
+</div>
+
+<div id="sidebar">
+<div class="sidepanel">
+<h1>Wiki</h1>
+
+<ul id="navibar">
+<li class="wikilink"><a href="http://wiki.ros.org/ROS">ROS</a></li><li class="wikilink"><a href="http://wiki.ros.org/StackList">StackList</a></li><li class="wikilink"><a href="http://wiki.ros.org/RecentChanges">RecentChanges</a></li><li class="current"><a href="http://wiki.ros.org/win_python_build_tools/groovy">groovy</a></li>
+</ul>
+
+</div>
+<div class="sidepanel">
+<h1>Seite</h1>
+<ul class="editbar"><li><span class="disabled">Geschützte Seite</span></li><li class="toggleCommentsButton" style="display:none;"><a href="#" class="nbcomment" onclick="toggleComments();return false;">Kommentare</a></li><li><a class="nbinfo" href="http://wiki.ros.org/win_python_build_tools/groovy?action=info" rel="nofollow">Info</a></li><li><a class="nbattachments" href="http://wiki.ros.org/win_python_build_tools/groovy?action=AttachFile" rel="nofollow">Dateianhänge</a></li><li>
+<form class="actionsmenu" method="GET" action="/win_python_build_tools/groovy">
+<div>
+    
+    <select name="action" onchange="if ((this.selectedIndex != 0) &amp;&amp;
+                      (this.options[this.selectedIndex].disabled == false)) {
+                this.form.submit();
+            }
+            this.selectedIndex = 0;">
+        <option selected="selected" value="show">Weitere Aktionen:</option><option value="raw">Rohform</option>
+<option value="print">Druckansicht</option>
+<option value="RenderAsDocbook">Als Docbook ausgeben</option>
+<option value="show" disabled="disabled" class="disabled">Cache löschen</option>
+<option value="show" disabled="disabled" class="disabled">-----------------------------------</option>
+<option value="SpellCheck">Rechtschreibung prüfen</option>
+<option value="LikePages">Ähnliche Seiten</option>
+<option value="LocalSiteMap">ÜbersichtsKarte</option>
+<option value="show" disabled="disabled" class="disabled">-----------------------------------</option>
+<option value="RenamePage" disabled="disabled" class="disabled">Seite umbenennen</option>
+<option value="DeletePage" disabled="disabled" class="disabled">Seite löschen</option>
+<option value="show" disabled="disabled" class="disabled">-----------------------------------</option>
+<option value="show" disabled="disabled" class="disabled">Abo für Benutzer</option>
+<option value="show" disabled="disabled" class="disabled">-----------------------------------</option>
+<option value="show" disabled="disabled" class="disabled">Spam entfernen</option>
+<option value="show" disabled="disabled" class="disabled">Diese Revision restaurieren</option>
+<option value="PackagePages">Seiten einpacken</option>
+<option value="SyncPages">Seiten synchronisieren</option>
+<option value="show" disabled="disabled" class="disabled">-----------------------------------</option>
+<option value="CreatePdfDocument">CreatePdfDocument</option>
+<option value="Load">Laden</option>
+<option value="RawFile">RawFile</option>
+<option value="Save">Speichern</option>
+<option value="SlideShow">SlideShow</option>
+    </select>
+    
+    
+</div>
+<script type="text/javascript">
+<!--// Init menu
+actionsMenuInit('Weitere Aktionen:');
+//-->
+</script>
+</form>
+</li></ul>
+
+</div>
+<div class="sidepanel">
+<h1>Benutzer</h1>
+<ul id="username"><li><a href="http://wiki.ros.org/win_python_build_tools/groovy?action=login" id="login" rel="nofollow">Anmelden</a></li></ul>
+</div>
+</div>
+
+<div id="page" dir="ltr" lang="en">
+<div dir="ltr" id="content" lang="en"><span class="anchor" id="top"></span>
+<span class="anchor" id="line-1"></span><p class="line867">
+</p><h2 id="Overview">Overview</h2>
+<span class="anchor" id="line-2"></span><span class="anchor" id="line-3"></span><p class="line874">Currently bundles in a single msi installer: <span class="anchor" id="line-4"></span><span class="anchor" id="line-5"></span></p><ul><li>vcstools <span class="anchor" id="line-6"></span></li><li>rosinstall <span class="anchor" id="line-7"></span></li><li>wstool <span class="anchor" id="line-8"></span></li><li>rospkg <span class="anchor" id="line-9"></span></li><li>catkin_pkg <span class="anchor" id="line-10"></span></li><li>win_ros <span class="anchor" id="line-11"></span><span class="anchor" id="line-12"></span></li></ul><p class="line867">
+</p><h2 id="Installation">Installation</h2>
+<span class="anchor" id="line-13"></span><span class="anchor" id="line-14"></span><p class="line874">The
+ rosinstall installation is based around a 32 bit version of python 
+(x86). This must be the case even for win64 as many python modules do 
+not yet have 64 bit versions. This is not a big issue, so don't worry. <span class="anchor" id="line-15"></span><span class="anchor" id="line-16"></span></p><p class="line867"><img alt="/!\" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/alert.png" title="/!\" height="15" width="15"> If upgrading from win_ros for fuerte, first uninstall vcstools, rosinstall and rospkg. <span class="anchor" id="line-17"></span><span class="anchor" id="line-18"></span></p><p class="line867"><strong>Dependencies</strong>: <span class="anchor" id="line-19"></span><span class="anchor" id="line-20"></span></p><ul><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/utilities/wget-1.11.4-1-setup.exe">Wget</a> <span class="anchor" id="line-21"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/python-2.7.2.msi">Python 2.7.2</a> <span class="anchor" id="line-22"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/pywin32-217.win32-py2.7.exe">PyWin32 217</a> <span class="anchor" id="line-23"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/PyYAML-3.10.win32-py2.7.msi">PyYaml 3.10</a> <span class="anchor" id="line-24"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/mercurial-2.1.1.win32.msi">PyMercurial 2.1.1</a> <span class="anchor" id="line-25"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/py27-pysvn-svn1612-1.7.4-1321.exe">PySvn 1.7.4</a> <span class="anchor" id="line-26"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/python-dateutil-1.5.win32.msi">Dateutil 1.5.0</a> <span class="anchor" id="line-27"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/vcstools/Git-1.7.9-preview20120201.exe">MSysGit 1.7.9</a> - select '<tt class="backtick">Run&nbsp;git&nbsp;and&nbsp;unix&nbsp;tools&nbsp;from&nbsp;windows&nbsp;command&nbsp;prompt</tt>' <span class="anchor" id="line-28"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/vcstools/Slik-Subversion-1.6.9-win32.msi">Sliksvn 1.6.9</a>/<a class="http" href="http://files.yujinrobot.com/repositories/windows/vcstools/Slik-Subversion-1.7.2-win32.msi">Sliksvn 1.7.2</a> <span class="anchor" id="line-29"></span></p></li><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/setuptools-0.6c11.win32-py2.7.exe">Setup Tools 0.6c11</a> <span class="anchor" id="line-30"></span><span class="anchor" id="line-31"></span></p></li></ul><p class="line862">Finally, add <tt class="backtick">C:\Python27\</tt> and <tt class="backtick">C:\Python27\Scripts</tt> to your <tt class="backtick">PATH</tt> variable if not already present. <span class="anchor" id="line-32"></span><span class="anchor" id="line-33"></span></p><p class="line867"><strong>Win_Ros Python Build Tools</strong>: <span class="anchor" id="line-34"></span><span class="anchor" id="line-35"></span></p><ul><li><p class="line891"><a class="http" href="http://files.yujinrobot.com/repositories/windows/python/2.7/winros-python-build-tools-0.2.2.win32.msi">WinRos Python Build Tools 0.2.2</a> - catkin-pkg, rospkg, vcstools, wstool, win_ros <span class="anchor" id="line-36"></span><span class="anchor" id="line-37"></span></p></li></ul><p class="line867">
+</p><h2 id="Modules">Modules</h2>
+<span class="anchor" id="line-38"></span><span class="anchor" id="line-39"></span><p class="line867"><strong>Catkin-Pkg/Rospkg</strong> <span class="anchor" id="line-40"></span><span class="anchor" id="line-41"></span></p><p class="line874">You shouldn't need to use these directly as they are support modules only. <span class="anchor" id="line-42"></span><span class="anchor" id="line-43"></span></p><p class="line867"><strong>Vcstools/Rosinstall/Wstool</strong> <span class="anchor" id="line-44"></span><span class="anchor" id="line-45"></span></p><p class="line862">Options are identical to that for <a href="http://wiki.ros.org/wstool">wstool</a>. An example one liner: <span class="anchor" id="line-46"></span><span class="anchor" id="line-47"></span></p><p class="line867"><span class="anchor" id="line-48"></span><span class="anchor" id="line-49"></span></p><pre><span class="anchor" id="line-1-1"></span>&gt; wstool init src https://raw.github.com/ros-windows/win_ros/groovy-devel/msvc_unstable.rosinstall</pre><span class="anchor" id="line-50"></span><span class="anchor" id="line-51"></span><p class="line874">An example of repeated use: <span class="anchor" id="line-52"></span><span class="anchor" id="line-53"></span></p><p class="line867"><span class="anchor" id="line-54"></span><span class="anchor" id="line-55"></span><span class="anchor" id="line-56"></span><span class="anchor" id="line-57"></span><span class="anchor" id="line-58"></span><span class="anchor" id="line-59"></span><span class="anchor" id="line-60"></span><span class="anchor" id="line-61"></span><span class="anchor" id="line-62"></span><span class="anchor" id="line-63"></span><span class="anchor" id="line-64"></span><span class="anchor" id="line-65"></span></p><pre><span class="anchor" id="line-1-2"></span>&gt; mkdir src
+<span class="anchor" id="line-2-1"></span>&gt; cd src
+<span class="anchor" id="line-3-1"></span>&gt; wstool init .
+<span class="anchor" id="line-4-1"></span>&gt; wstool set catkin --git https://github.com/yujinrobot/catkin.git
+<span class="anchor" id="line-5-1"></span>&gt; wstool set genmsg --git git://github.com/ros/genmsg.git
+<span class="anchor" id="line-6-1"></span>&gt; wstool set gencpp --git git://github.com/ros/gencpp.git
+<span class="anchor" id="line-7-1"></span>&gt; wstool set genpy --git git://github.com/ros/genpy.git
+<span class="anchor" id="line-8-1"></span>&gt; wstool update catkin
+<span class="anchor" id="line-9-1"></span>&gt; wstool update genmsg
+<span class="anchor" id="line-10-1"></span>&gt; wstool update gencpp
+<span class="anchor" id="line-11-1"></span>&gt; wstool update genpy</pre><span class="anchor" id="line-66"></span><span class="anchor" id="line-67"></span><p class="line867"><img alt="/!\" src="002%20win_python_build_tools_groovy%20-%20ROS%20Wiki-Dateien/alert.png" title="/!\" height="15" width="15"> Note that we don't make use of <tt class="backtick">rosws</tt> anymore. <span class="anchor" id="line-68"></span><span class="anchor" id="line-69"></span></p><p class="line867"><strong>Win-Ros</strong> <span class="anchor" id="line-70"></span><span class="anchor" id="line-71"></span></p><p class="line862">The win_ros module provides a few convenience scripts, currently <tt class="backtick">winros_init_workspace</tt>, <tt class="backtick">winros_init_build</tt> and <tt class="backtick">winros_make</tt>.
+ They are mostly just simple wrappers around cmake and catkin 
+functionality tailored for windows. If you want to know more in detail 
+about the build process, the <a class="https" href="https://github.com/ros-windows/win_ros/tree/groovy-devel/rosdeps/win_python_build_tools">python sources</a> are fairly self explanatory. <span class="anchor" id="line-72"></span><span class="anchor" id="bottom"></span></p></div></div>
+<div id="pagebottom"></div>
+</div>
+
+<p id="pageinfo" class="info" dir="ltr" lang="de">Wiki: win_python_build_tools/groovy  (zuletzt geändert am 2013-03-26 07:20:59 durch <span title="snorri @ 106.240.238.35[106.240.238.35]"><a class="mailto" href="mailto:d.stonier@gmail.com" title="snorri @ 106.240.238.35[106.240.238.35]">DanielStonier</a></span>)</p>
+
+
+
+
+<div class="footer">
+Except where otherwise noted, the ROS wiki is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>. <a href="https://plus.google.com/113789706402978299308" rel="publisher">Find us on Google+</a>
+</div>
+
+  </div> <!-- /#dpage-inner, /#dpage -->
+
+
+
+
+
+</body></html>

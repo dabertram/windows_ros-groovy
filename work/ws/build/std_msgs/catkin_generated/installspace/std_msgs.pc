@@ -1,6 +1,0 @@
-Name: std_msgs
-Description: Description of std_msgs
-Version: 0.5.8
-Cflags: -IC:/opt/ros/groovy/x86/include
-Libs: -LC:/opt/ros/groovy/x86/lib 
-Requires: message_runtime

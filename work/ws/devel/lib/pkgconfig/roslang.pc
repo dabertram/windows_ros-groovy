@@ -1,6 +1,0 @@
-Name: roslang
-Description: Description of roslang
-Version: 1.9.51
-Cflags: -I
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

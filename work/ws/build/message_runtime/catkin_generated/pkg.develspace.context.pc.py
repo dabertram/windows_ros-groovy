@@ -1,7 +1,0 @@
-CATKIN_PACKAGE_PREFIX=""
-PROJECT_ABSOLUTE_INCLUDE_DIRS=""
-PROJECT_CATKIN_DEPENDS="cpp_common;roscpp_serialization;roscpp_traits;rostime"
-PKG_CONFIG_LIBRARIES_WITH_PREFIX=""
-PROJECT_NAME="message_runtime"
-PROJECT_SPACE_DIR="C:/work/ws/devel"
-PROJECT_VERSION="0.4.12"

@@ -1,6 +1,0 @@
-Name: test_rospy
-Description: Description of test_rospy
-Version: 1.9.42
-Cflags: -IC:/opt/ros/groovy/x86/include
-Libs: -LC:/opt/ros/groovy/x86/lib 
-Requires: 

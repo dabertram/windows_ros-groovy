@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "ros")
-set(ros_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(ros_DEPRECATED "")
-set(ros_VERSION "1.9.51")
-set(ros_BUILD_DEPENDS )
-set(ros_RUN_DEPENDS "catkin" "mk" "rosbuild" "roslang" "roslib" "rosbash" "rosboost_cfg" "rosclean" "roscreate" "rosmake" "rosunit")
-set(ros_BUILDTOOL_DEPENDS "catkin")

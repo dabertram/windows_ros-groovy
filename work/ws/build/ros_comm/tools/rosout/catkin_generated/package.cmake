@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rosout")
-set(rosout_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(rosout_DEPRECATED "")
-set(rosout_VERSION "1.9.42")
-set(rosout_BUILD_DEPENDS "log4cxx" "roscpp" "rosgraph_msgs")
-set(rosout_RUN_DEPENDS "log4cxx" "roscpp")
-set(rosout_BUILDTOOL_DEPENDS "catkin")

@@ -1,6 +1,0 @@
-Name: rosservice
-Description: Description of rosservice
-Version: 1.9.42
-Cflags: -I
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "win_dateutil")
-set(win_dateutil_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
-set(win_dateutil_DEPRECATED "")
-set(win_dateutil_VERSION "0.2.0")
-set(win_dateutil_BUILD_DEPENDS )
-set(win_dateutil_RUN_DEPENDS )
-set(win_dateutil_BUILDTOOL_DEPENDS "catkin")

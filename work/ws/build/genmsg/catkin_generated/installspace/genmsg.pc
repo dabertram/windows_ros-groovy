@@ -1,6 +1,0 @@
-Name: genmsg
-Description: Description of genmsg
-Version: 0.4.22
-Cflags: -I
-Libs: -LC:/opt/ros/groovy/x86/lib 
-Requires: 

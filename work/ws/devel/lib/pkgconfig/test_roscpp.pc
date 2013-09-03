@@ -1,6 +1,0 @@
-Name: test_roscpp
-Description: Description of test_roscpp
-Version: 1.9.42
-Cflags: -IC:/work/ws/devel/include -IC:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include
-Libs: -LC:/work/ws/devel/lib C:/opt/rosdeps/groovy/x86/lib/boost_signals-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_filesystem-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib
-Requires: message_runtime rosconsole rosgraph_msgs std_msgs xmlrpcpp

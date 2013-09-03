@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "std_srvs")
-set(std_srvs_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(std_srvs_DEPRECATED "")
-set(std_srvs_VERSION "1.9.42")
-set(std_srvs_BUILD_DEPENDS "message_generation")
-set(std_srvs_RUN_DEPENDS "message_runtime")
-set(std_srvs_BUILDTOOL_DEPENDS "catkin")

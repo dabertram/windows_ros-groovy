@@ -1,7 +1,0 @@
-CATKIN_PACKAGE_PREFIX=""
-PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/work/ws/devel/include;C:/work/ws/src/ros_comm/tools/topic_tools/include"
-PROJECT_CATKIN_DEPENDS="message_runtime;rosconsole;roscpp;std_msgs;xmlrpcpp"
-PKG_CONFIG_LIBRARIES_WITH_PREFIX="-ltopic_tools"
-PROJECT_NAME="topic_tools"
-PROJECT_SPACE_DIR="C:/work/ws/devel"
-PROJECT_VERSION="1.9.42"

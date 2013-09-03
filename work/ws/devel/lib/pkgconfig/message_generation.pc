@@ -1,6 +1,0 @@
-Name: message_generation
-Description: Description of message_generation
-Version: 0.2.10
-Cflags: -I
-Libs: -LC:/work/ws/devel/lib 
-Requires: gencpp genlisp genmsg genpy

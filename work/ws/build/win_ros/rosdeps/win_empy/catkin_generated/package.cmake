@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "win_empy")
-set(win_empy_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
-set(win_empy_DEPRECATED "")
-set(win_empy_VERSION "0.2.0")
-set(win_empy_BUILD_DEPENDS )
-set(win_empy_RUN_DEPENDS )
-set(win_empy_BUILDTOOL_DEPENDS "catkin")

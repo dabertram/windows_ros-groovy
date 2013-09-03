@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rosgraph_msgs")
-set(rosgraph_msgs_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(rosgraph_msgs_DEPRECATED "")
-set(rosgraph_msgs_VERSION "1.9.42")
-set(rosgraph_msgs_BUILD_DEPENDS "message_generation" "std_msgs")
-set(rosgraph_msgs_RUN_DEPENDS "message_runtime" "std_msgs")
-set(rosgraph_msgs_BUILDTOOL_DEPENDS "catkin")

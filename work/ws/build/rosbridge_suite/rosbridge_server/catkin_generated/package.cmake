@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rosbridge_server")
-set(rosbridge_server_MAINTAINER "Brandon Alexander <baalexander@gmail.com>")
-set(rosbridge_server_DEPRECATED "")
-set(rosbridge_server_VERSION "0.4.4")
-set(rosbridge_server_BUILD_DEPENDS "rosbridge_library" "rosapi" "rospy" "python-imaging")
-set(rosbridge_server_RUN_DEPENDS "rosbridge_library" "rosapi" "rospy" "python-imaging" "rosauth")
-set(rosbridge_server_BUILDTOOL_DEPENDS "catkin")

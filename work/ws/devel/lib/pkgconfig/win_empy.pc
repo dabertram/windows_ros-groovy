@@ -1,6 +1,0 @@
-Name: win_empy
-Description: Description of win_empy
-Version: 0.2.0
-Cflags: -I
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

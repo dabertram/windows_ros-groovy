@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rosbag")
-set(rosbag_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(rosbag_DEPRECATED "")
-set(rosbag_VERSION "1.9.42")
-set(rosbag_BUILD_DEPENDS "boost" "bzip2" "cpp_common" "python-imaging" "rosconsole" "roscpp" "roscpp_serialization" "topic_tools" "xmlrpcpp")
-set(rosbag_RUN_DEPENDS "boost" "bzip2" "genmsg" "genpy" "python-rospkg" "rosconsole" "roscpp" "roslib" "rospy" "topic_tools" "xmlrpcpp")
-set(rosbag_BUILDTOOL_DEPENDS "catkin")

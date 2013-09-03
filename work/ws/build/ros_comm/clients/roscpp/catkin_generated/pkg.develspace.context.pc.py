@@ -1,7 +1,0 @@
-CATKIN_PACKAGE_PREFIX=""
-PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/work/ws/devel/include;C:/work/ws/src/ros_comm/clients/roscpp/include;C:/work/ws/devel/include/ros;C:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include"
-PROJECT_CATKIN_DEPENDS="cpp_common;message_runtime;rosconsole;roscpp_serialization;roscpp_traits;rosgraph_msgs;rostime;std_msgs;xmlrpcpp"
-PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lroscpp;C:/opt/rosdeps/groovy/x86/lib/boost_signals-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_filesystem-vc-mt-1_47.lib;C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib"
-PROJECT_NAME="roscpp"
-PROJECT_SPACE_DIR="C:/work/ws/devel"
-PROJECT_VERSION="1.9.42"

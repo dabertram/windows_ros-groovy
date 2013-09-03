@@ -1,6 +1,0 @@
-Name: roscpp
-Description: Description of roscpp
-Version: 1.9.42
-Cflags: -IC:/opt/ros/groovy/x86/include -IC:/opt/rosdeps/groovy/x86/share/boost-1.47.0/cmake/../../../include
-Libs: -LC:/opt/ros/groovy/x86/lib -lroscpp C:/opt/rosdeps/groovy/x86/lib/boost_signals-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_filesystem-vc-mt-1_47.lib C:/opt/rosdeps/groovy/x86/lib/boost_system-vc-mt-1_47.lib
-Requires: cpp_common message_runtime rosconsole roscpp_serialization roscpp_traits rosgraph_msgs rostime std_msgs xmlrpcpp

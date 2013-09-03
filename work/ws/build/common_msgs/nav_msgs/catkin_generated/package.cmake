@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "nav_msgs")
-set(nav_msgs_MAINTAINER "Tully Foote <tfoote@osrfoundation.org>")
-set(nav_msgs_DEPRECATED "")
-set(nav_msgs_VERSION "1.9.16")
-set(nav_msgs_BUILD_DEPENDS "geometry_msgs" "message_generation" "std_msgs" "actionlib_msgs")
-set(nav_msgs_RUN_DEPENDS "geometry_msgs" "message_runtime" "std_msgs" "actionlib_msgs")
-set(nav_msgs_BUILDTOOL_DEPENDS "catkin")

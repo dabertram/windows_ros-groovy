@@ -1,6 +1,0 @@
-Name: rosbag
-Description: Description of rosbag
-Version: 1.9.42
-Cflags: -IC:/work/ws/src/ros_comm/tools/rosbag/include
-Libs: -LC:/work/ws/devel/lib -lrosbag
-Requires: rosconsole roscpp topic_tools xmlrpcpp

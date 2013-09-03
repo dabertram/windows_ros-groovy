@@ -1,7 +1,0 @@
-CATKIN_PACKAGE_PREFIX=""
-PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/work/ws/src/ros_comm/utilities/xmlrpcpp/include"
-PROJECT_CATKIN_DEPENDS="cpp_common"
-PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lxmlrpcpp"
-PROJECT_NAME="xmlrpcpp"
-PROJECT_SPACE_DIR="C:/work/ws/devel"
-PROJECT_VERSION="1.9.42"

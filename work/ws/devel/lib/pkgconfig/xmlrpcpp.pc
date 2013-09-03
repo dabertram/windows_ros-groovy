@@ -1,6 +1,0 @@
-Name: xmlrpcpp
-Description: Description of xmlrpcpp
-Version: 1.9.42
-Cflags: -IC:/work/ws/src/ros_comm/utilities/xmlrpcpp/include
-Libs: -LC:/work/ws/devel/lib -lxmlrpcpp
-Requires: cpp_common

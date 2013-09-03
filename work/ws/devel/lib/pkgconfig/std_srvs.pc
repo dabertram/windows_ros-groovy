@@ -1,6 +1,0 @@
-Name: std_srvs
-Description: Description of std_srvs
-Version: 1.9.42
-Cflags: -IC:/work/ws/devel/include
-Libs: -LC:/work/ws/devel/lib 
-Requires: message_runtime

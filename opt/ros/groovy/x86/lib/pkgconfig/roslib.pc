@@ -1,6 +1,0 @@
-Name: roslib
-Description: Description of roslib
-Version: 1.9.51
-Cflags: -IC:/opt/ros/groovy/x86/include
-Libs: -LC:/opt/ros/groovy/x86/lib -lroslib
-Requires: 

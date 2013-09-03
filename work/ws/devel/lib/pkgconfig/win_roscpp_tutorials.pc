@@ -1,6 +1,0 @@
-Name: win_roscpp_tutorials
-Description: Description of win_roscpp_tutorials
-Version: 0.2.0
-Cflags: -IC:/work/ws/devel/include
-Libs: -LC:/work/ws/devel/lib 
-Requires: message_runtime std_msgs

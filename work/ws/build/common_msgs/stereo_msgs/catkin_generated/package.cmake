@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "stereo_msgs")
-set(stereo_msgs_MAINTAINER "Tully Foote <tfoote@osrfoundation.org>")
-set(stereo_msgs_DEPRECATED "")
-set(stereo_msgs_VERSION "1.9.16")
-set(stereo_msgs_BUILD_DEPENDS "message_generation" "sensor_msgs" "std_msgs")
-set(stereo_msgs_RUN_DEPENDS "message_runtime" "sensor_msgs" "std_msgs")
-set(stereo_msgs_BUILDTOOL_DEPENDS "catkin")

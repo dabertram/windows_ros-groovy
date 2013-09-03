@@ -1,6 +1,0 @@
-Name: message_runtime
-Description: Description of message_runtime
-Version: 0.4.12
-Cflags: -I
-Libs: -LC:/opt/ros/groovy/x86/lib 
-Requires: cpp_common roscpp_serialization roscpp_traits rostime

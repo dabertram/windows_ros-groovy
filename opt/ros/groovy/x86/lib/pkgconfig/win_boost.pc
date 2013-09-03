@@ -1,6 +1,0 @@
-Name: win_boost
-Description: Description of win_boost
-Version: 0.2.0
-Cflags: -I
-Libs: -LC:/opt/ros/groovy/x86/lib 
-Requires: 

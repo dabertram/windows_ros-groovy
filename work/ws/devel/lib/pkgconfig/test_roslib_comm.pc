@@ -1,6 +1,0 @@
-Name: test_roslib_comm
-Description: Description of test_roslib_comm
-Version: 1.9.42
-Cflags: -IC:/work/ws/devel/include
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

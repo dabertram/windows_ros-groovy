@@ -1,6 +1,0 @@
-Name: cpp_common
-Description: Description of cpp_common
-Version: 0.3.16
-Cflags: -IC:/work/ws/src/roscpp_core/cpp_common/include
-Libs: -LC:/work/ws/devel/lib -lcpp_common
-Requires: 

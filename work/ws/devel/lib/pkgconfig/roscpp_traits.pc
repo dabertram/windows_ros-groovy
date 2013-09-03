@@ -1,6 +1,0 @@
-Name: roscpp_traits
-Description: Description of roscpp_traits
-Version: 0.3.16
-Cflags: -IC:/work/ws/src/roscpp_core/roscpp_traits/include
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

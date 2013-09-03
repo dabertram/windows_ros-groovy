@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rosunit")
-set(rosunit_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(rosunit_DEPRECATED "")
-set(rosunit_VERSION "1.9.51")
-set(rosunit_BUILD_DEPENDS )
-set(rosunit_RUN_DEPENDS "python-rospkg" "roslib")
-set(rosunit_BUILDTOOL_DEPENDS "catkin")

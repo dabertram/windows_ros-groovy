@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "mk")
-set(mk_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(mk_DEPRECATED "")
-set(mk_VERSION "1.9.51")
-set(mk_BUILD_DEPENDS )
-set(mk_RUN_DEPENDS )
-set(mk_BUILDTOOL_DEPENDS "catkin")

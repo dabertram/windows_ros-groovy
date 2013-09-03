@@ -1,7 +1,0 @@
-CATKIN_PACKAGE_PREFIX=""
-PROJECT_ABSOLUTE_INCLUDE_DIRS="C:/opt/ros/groovy/x86/include"
-PROJECT_CATKIN_DEPENDS="cpp_common;roscpp_traits;rostime"
-PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lroscpp_serialization"
-PROJECT_NAME="roscpp_serialization"
-PROJECT_SPACE_DIR="C:/opt/ros/groovy/x86"
-PROJECT_VERSION="0.3.16"

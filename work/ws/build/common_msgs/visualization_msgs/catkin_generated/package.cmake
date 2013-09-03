@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "visualization_msgs")
-set(visualization_msgs_MAINTAINER "Tully Foote <tfoote@osrfoundation.org>")
-set(visualization_msgs_DEPRECATED "")
-set(visualization_msgs_VERSION "1.9.16")
-set(visualization_msgs_BUILD_DEPENDS "geometry_msgs" "message_generation" "std_msgs")
-set(visualization_msgs_RUN_DEPENDS "geometry_msgs" "message_runtime" "std_msgs")
-set(visualization_msgs_BUILDTOOL_DEPENDS "catkin")

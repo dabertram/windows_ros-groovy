@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rosmaster")
-set(rosmaster_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(rosmaster_DEPRECATED "")
-set(rosmaster_VERSION "1.9.42")
-set(rosmaster_BUILD_DEPENDS )
-set(rosmaster_RUN_DEPENDS "rosgraph")
-set(rosmaster_BUILDTOOL_DEPENDS "catkin")

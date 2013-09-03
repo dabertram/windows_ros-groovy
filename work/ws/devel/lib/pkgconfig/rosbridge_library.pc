@@ -1,6 +1,0 @@
-Name: rosbridge_library
-Description: Description of rosbridge_library
-Version: 0.4.4
-Cflags: -IC:/work/ws/devel/include
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

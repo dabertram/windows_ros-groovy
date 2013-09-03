@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "genpy")
-set(genpy_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
-set(genpy_DEPRECATED "")
-set(genpy_VERSION "0.4.14")
-set(genpy_BUILD_DEPENDS "genmsg")
-set(genpy_RUN_DEPENDS "genmsg")
-set(genpy_BUILDTOOL_DEPENDS "catkin")

@@ -1,3 +1,0 @@
-
-import %(package)s
-%(package)s.main()

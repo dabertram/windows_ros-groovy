@@ -1,6 +1,0 @@
-Name: shape_msgs
-Description: Description of shape_msgs
-Version: 1.9.16
-Cflags: -IC:/work/ws/devel/include
-Libs: -LC:/work/ws/devel/lib 
-Requires: geometry_msgs message_runtime std_msgs

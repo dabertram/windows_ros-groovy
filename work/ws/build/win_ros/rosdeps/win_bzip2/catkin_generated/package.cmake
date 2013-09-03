@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "win_bzip2")
-set(win_bzip2_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
-set(win_bzip2_DEPRECATED "")
-set(win_bzip2_VERSION "0.2.0")
-set(win_bzip2_BUILD_DEPENDS )
-set(win_bzip2_RUN_DEPENDS )
-set(win_bzip2_BUILDTOOL_DEPENDS "catkin")

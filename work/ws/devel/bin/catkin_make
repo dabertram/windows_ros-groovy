@@ -1,4 +1,0 @@
-#!/usr/bin/env sh
-# generated from catkin/cmake/templates/script.sh.in
-
-"C:/work/ws/src/catkin/bin/catkin_make" "$@"

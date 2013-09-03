@@ -1,6 +1,0 @@
-Name: win_mercurial
-Description: Description of win_mercurial
-Version: 0.2.0
-Cflags: -I
-Libs: -LC:/work/ws/devel/lib 
-Requires: 

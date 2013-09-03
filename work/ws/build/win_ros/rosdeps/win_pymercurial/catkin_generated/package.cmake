@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "win_mercurial")
-set(win_mercurial_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
-set(win_mercurial_DEPRECATED "")
-set(win_mercurial_VERSION "0.2.0")
-set(win_mercurial_BUILD_DEPENDS )
-set(win_mercurial_RUN_DEPENDS )
-set(win_mercurial_BUILDTOOL_DEPENDS "catkin")
