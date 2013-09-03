@@ -1,5 +1,7 @@
-source:									http://wiki.ros.org/win_ros/groovy/Msvc%20Compiled%20SDK [001]
-03. Sept. 2013
+sources:									http://wiki.ros.org/win_ros/groovy/Msvc%20Compiled%20SDK [001]
+											http://wiki.ros.org/win_python_build_tools/groovy [002]
+											http://wiki.ros.org/win_ros/groovy/Msvc%20Overlays#Adding_Sources [003]
+03. Sept. 2013	(tested on Windows 7 32- and 64-Bit Versions)
 
 ######### install winros groovy and dependencies #########
 1. 	install "win_python_build_tools" 	http://wiki.ros.org/win_python_build_tools/groovy [002]
@@ -49,7 +51,7 @@ source:									http://wiki.ros.org/win_ros/groovy/Msvc%20Compiled%20SDK [001]
 8.	initialize that workspace (this downloads a lot of ros sources etc., so it can take a while)
 		--> "winros_init_workspace --sdk-unstable ws"
 
-9.	add a source package (e.g. rosbridge_suite)
+9.	add a source package (e.g. rosbridge_suite)		http://wiki.ros.org/win_ros/groovy/Msvc%20Overlays#Adding_Sources [003]
 		--> "cd c:\work\ws\src"
 9.a		configure a new package (e.g. rosbridge_suite from github repository)
 			--> "wstool set rosbridge_suite --git https://github.com/ipa-fxm-db/rosbridge_suite.git"
