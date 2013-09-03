@@ -1,6 +1,6 @@
 tested on Windows 7 32- and 64-Bit Versions [03. Sept. 2013]
 
-##### sources
+##### sources (see tutorials folder)
 - http://wiki.ros.org/win_ros/groovy/Msvc%20Compiled%20SDK [001]
 - http://wiki.ros.org/win_python_build_tools/groovy [002]
 - http://wiki.ros.org/win_ros/groovy/Msvc%20Overlays#Adding_Sources [003]
@@ -33,7 +33,7 @@ tested on Windows 7 32- and 64-Bit Versions [03. Sept. 2013]
 
  1.10 install "Setup Tools" http://files.yujinrobot.com/repositories/windows/python/2.7/setuptools-0.6c11.win32-py2.7.exe
 
- 1.11 add "C:\Python27" and "C:\Python27\Scripts" to the PATH variable (via Control Panel/Systemsteuerung)
+ 1.11 add "C:\Python27" and "C:\Python27\Scripts" to the PATH variable (via ControlPanel/Systemsteuerung)
 
 		--> open a command shell and enter "echo %path%" to check the variable
  
