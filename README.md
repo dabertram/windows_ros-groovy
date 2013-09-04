@@ -149,3 +149,10 @@ tested on Windows 7 32- and 64-Bit Versions [03. Sept. 2013]
 
 **ISSUES:**
 - what about roslaunch??
+
+  roslaunch is working.
+  		
+  		cd C:\work\ws\devel
+		setup.bat
+  		cd C:\work\ws\src\rosbridge_suite\rosbridge_server
+  		roslaunch rosbridge_server rosbridge_tcp.launch
