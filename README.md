@@ -120,28 +120,28 @@ tested on Windows 7 32- and 64-Bit Versions [03. Sept. 2013]
 2. run **roscore**
 
 		--> open a new terminal
-		--> "cd c:\work\ws"
+		--> "cd c:\work\ws" (or ..\work\ws\devel ??)
 		--> "setup.bat"
 		--> "roscore"
 
 3. run **rosbridge_tcp**
 
 		--> open a new terminal
-		--> "cd c:\work\ws"
+		--> "cd c:\work\ws" (or ..\work\ws\devel ??)
 		--> "setup.bat"
 		--> python "c:\work\ws\src\rosbridge_suite\rosbridge_server\scripts\rosbridge_tcp.py" (add parameters if needed)
 
 4. run **test_fragmented_service_server**
 
 		--> open a new terminal
-		--> "cd c:\work\ws"
+		--> "cd c:\work\ws" (or ..\work\ws\devel ??)
 		--> "setup.bat"
 		--> python "c:\work\ws\src\rosbridge_suite\rosbridge_library\test\experimental\fragmentation+srv+tcp\test_non-ros_service_server_fragmented.py"
 
 5. run **test_fragmented_service_client**
 
 		--> open a new terminal
-		--> "cd c:\work\ws"
+		--> "cd c:\work\ws" (or ..\work\ws\devel ??)
 		--> "setup.bat"
 		--> python "c:\work\ws\src\rosbridge_suite\rosbridge_library\test\experimental\fragmentation+srv+tcp\test_non-ros_service_client_fragmented.py"
 
